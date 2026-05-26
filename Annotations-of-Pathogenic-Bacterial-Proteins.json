@@ -6,22 +6,17 @@
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
   "rows": [
-    ["TMPRSS3@TMPRSS3 Alignment"],
-    ["page2@Comparison of Dynamics Protein"],
-  ["page3@Movies of Dynamics of Protein Kallikrein-11 (KLK11)"]]
+    ["Pathogenicpage@Pathogenic Bacteria Proteins"]]
   },
-"page:TMPRSS3":
+"page:Pathogenicpage":
 {"h2:caption": "Most Important Pathogenic Bacteria Proteins",
  "alnpdb:alignment":{
     "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_O06485_F1_model_v6.pdb",
     "name1":"Membrane transporters",
     "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_P39315_F1_model_v6.pdb",
-    "name2":"Oxidoreductases",
-    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_aligned.pdb",
-    "lineLen":70,
-    "info":"Aligned Wild type with Mutant using by ProtSub."
+    "name2":"Oxidoreductases"
   },
-
+  
   "h3:caption1": "Structural comparison of Protein TMPRSS3 & Disease Mutant C406R",
 "md:info1":"Here, green is the wildtype (right) and red is the mutant (center) models. The superimposed structure shows close structural alignment with an overall RMSD of 3.5 Angstrom (left). ",
   "img:logo1:8": {
@@ -32,23 +27,5 @@
         "src": "https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_C406R_aligned_rmsd3_5.png",
         "name2":"tmprss3_C406R_aligned_rmsd3_5"
     }
-},
-  
-"page:page2":
-{"h3:caption2": "Comparison of Dynamics Protein  FXI, coagulation factor & Disease Mutant C416Y coagulation factor.",
-"md:info2":"Many mutants show extremely different dynamics. Normal mode sof motion have been computed with coarse-grained Elastic Network Models. Comparisons are made with the dot products of normal mode vectors between mutant mutants and native proteins. The shown here are for F11, FXI, coagulation factor XI with results for the mutation C416Y, which show substantially different motions in its dynamics.",
-  "img:logo3:8": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprs3_heatmap_5x5.png",
-        "name3":"tmprs3_heatmap_5x5.png"
-    }
- },
-
-"page:page3":
-{"h3:caption3": "Movies of Dynamics of Protein Kallikrein-11 (KLK11) (left) and Disease Mutant G18E (right).",
-"md:info3":"Changed dynamics for a ClinVar mutation in comparison with the native structure’s dynamics. This is ANM-based conformational dynamics of Kallikrein-11 (KLK11, NCBI Reference Sequence: NP_001129504.1) based on the first 5 normal modes from the Elastic Network Dynamics. **(Left)** Wildtype KLK11 showing multiple ANM conformations colored by RMSF (blue = rigid, white = intermediate, red= flexible). **(Right)** G18E disease mutant of KLK11. The G18E substitution is associated with an autosomal-dominant cornification disorder. Both structures show a rigid catalytic core (blue) with flexible loop regions (red), particularly at the N- and C-terminal regions. Comparison of wildtype and mutant dynamics reveals changes in the flexibility profile introduced by the mutation.",
-    "img:logo4:12": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/klk11_md_change.png",
-        "name4":"md_change"
-    }
- }
+}
 }
