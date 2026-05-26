@@ -11,7 +11,7 @@
   ["page3@Movies of Dynamics of Protein Kallikrein-11 (KLK11)"]]
   },
 "page:TMPRSS3":
-{"h2:caption": "Protein TMPRSS3 & Disease Mutant C406R Alignment",
+{"h2:caption": "Most Important Pathogenic Bacteria Proteins",
  "alnpdb:alignment":{
     "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/fold_tmprss3_model_4.pdb",
     "name1":"Wild Type",
