@@ -13,9 +13,9 @@
 "page:Membrane":
 {"h2:caption": "Membrane transporters Protein",
  "alnpdb:alignment":{
-    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_P42591_F1_model_v6.pdb",
+    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-P42591-F1-model_v6.pdb",
     "name1":"Query (O06485)",
-    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_Q9I5N4_F1_model_v6.pdb",
+    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-Q9I5N4-F1-model_v6.pdb",
     "name2":"Target (Q9I5N4)",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_aligned.pdb",
     "lineLen":70,
@@ -26,9 +26,9 @@
 "page:page2":
 {"h3:caption2": "Oxidoreductases Protein",
  "alnpdb:alignment":{
-    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_Q9I4M3_F1_model_v6.pdb",
+    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-Q9I4M3-F1-model_v6.pdb",
     "name1":"Query (Q9I4M3)",
-    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_P75804_F1_model_v6.pdb",
+    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-P75804-F1-model_v6.pdb",
     "name2":"Target (P75804)",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_aligned.pdb",
     "lineLen":70,
@@ -39,9 +39,9 @@
 "page:page3":
 {"h3:caption3": "Transcription factors Protein",
  "alnpdb:alignment":{
-    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_W1DSI0_F1_model_v6.pdb",
+    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-W1DSI0-F1-model_v6.pdb",
     "name1":"Query (W1DSI0)",
-    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_P37047_F1_model_v6.pdb",
+    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-P37047-F1-model_v6.pdb",
     "name2":"Target (P37047)",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_aligned.pdb",
     "lineLen":70,
