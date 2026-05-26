@@ -13,9 +13,9 @@
 "page:TMPRSS3":
 {"h2:caption": "Most Important Pathogenic Bacteria Proteins",
  "alnpdb:alignment":{
-    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/AF-O06485-F1-model_v6.pdb",
+    "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/AF_O06485_F1_model_v6.pdb",
     "name1":"Membrane transporters",
-    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/AF-P39315-F1-model_v6.pdb",
+    "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/AF_P39315_F1_model_v6.pdb",
     "name2":"oxidoreductases",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_aligned.pdb",
     "lineLen":70,
