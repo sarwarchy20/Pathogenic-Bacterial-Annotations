@@ -14,7 +14,10 @@
     "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_O06485_F1_model_v6.pdb",
     "name1":"Membrane transporters",
     "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF_P39315_F1_model_v6.pdb",
-    "name2":"Oxidoreductases"
+    "name2":"Oxidoreductases",
+    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/master/data/tmprss3_aligned.pdb",
+    "lineLen":70,
+    "info":"Aligned Wild type with Mutant using by ProtSub."
   },
   
   "h3:caption1": "Structural comparison of Protein TMPRSS3 & Disease Mutant C406R",
