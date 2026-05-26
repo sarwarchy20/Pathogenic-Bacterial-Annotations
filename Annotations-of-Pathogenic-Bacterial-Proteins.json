@@ -17,7 +17,7 @@
     "name1":"Query (O06485)",
     "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-Q9I5N4-F1-model_v6.pdb",
     "name2":"Target (Q9I5N4)",
-    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_aligned.pdb",
+    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/aligned_P42591_Q9I5N4.pdb",
     "lineLen":70,
     "info":"Aligned Query with Target using by ProtSub."
   }
