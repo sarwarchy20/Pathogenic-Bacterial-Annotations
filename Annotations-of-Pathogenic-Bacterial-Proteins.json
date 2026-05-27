@@ -30,7 +30,7 @@
     "name1":"Query (Q9I4M3)",
     "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-P75804-F1-model_v6.pdb",
     "name2":"Target (P75804)",
-    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_aligned.pdb",
+    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/aligned_Q9I4M3_P75804.pdb",
     "lineLen":70,
     "info":"Aligned Query with Target using by ProtSub."
   }
@@ -43,7 +43,7 @@
     "name1":"Query (W1DSI0)",
     "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/AF-P37047-F1-model_v6.pdb",
     "name2":"Target (P37047)",
-    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/tmprss3_aligned.pdb",
+    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Pathogenic-Bacterial-Annotations/master/data/aligned_W1DSI0_P37047.pdb",
     "lineLen":70,
     "info":"Aligned Query with Target using by ProtSub."
   }
